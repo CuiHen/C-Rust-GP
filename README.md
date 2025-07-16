@@ -14,6 +14,8 @@ cargo build --release
 ```
 
 # Overview
+For exemplary configurations, just visit the `example` folder of this repository. There, you will see an extensive list of documentated models.
+
 CRust_GP aims to make construction and modification of Cartesian Genetic Programming (CGP) as simple and reliable as possible. 
 It provides a comprehensive set of operators, extensions, and QoL tools.
 Due to its component-based architecture, creating a new CGP configuration can be realized by just replacing a few lines of code.
