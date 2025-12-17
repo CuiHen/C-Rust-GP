@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fdoi.org%2F10.1145%2F3712255.3726534-blue?label=DOI&link=https%3A%2F%2Fdoi.org%2F10.1145%2F3712255.3726534)
+
 Code for: CRust_GP: A Framework for the Modular Construction and Evaluation of Cartesian Genetic Programming in Rust
 
 # Rust
